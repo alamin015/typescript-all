@@ -9,9 +9,9 @@ greet("John");
 
 
 
-## demo of  class 
 
-``` class Student {
+
+class Student {
     name:string;
     id: number;
     constructor(name:string,id:number) {
