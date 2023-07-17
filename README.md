@@ -1,4 +1,4 @@
-# my first readme file 
+## my first readme file 
 
 ```javascript
 function greet(name) {
@@ -6,3 +6,19 @@ function greet(name) {
 }
 
 greet("John");
+
+
+
+## demo of  class 
+
+``` class Student {
+    name:string;
+    id: number;
+    constructor(name:string,id:number) {
+        this.name = name;
+        this.id = id;
+    }
+    display():void {
+        console.log(this.name,this.id)
+    }
+}
