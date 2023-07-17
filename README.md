@@ -1,6 +1,7 @@
 ## my first readme file 
 
 
+```
 function greet(name) {
     console.log(`Hello, ${name}!`);
 }
@@ -22,3 +23,6 @@ class Student {
         console.log(this.name,this.id)
     }
 }
+
+
+## hello world how are you
